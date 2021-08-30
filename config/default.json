@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "Vladimir comand",
+    "mongoUrl": "mongodb+srv://Vladimir:1234pass@cluster0.ib9vk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}

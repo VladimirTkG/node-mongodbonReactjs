@@ -1,0 +1,27 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+html{
+  background-color: gray;
+}
+
+#root{
+  height: 1100px;
+}
+
+.label-form{
+  color: #404030
+}
+
+input.yellow-input{
+  border-bottom: 1px solid #fff !important;
+  box-shadow: 0 1px 0 0 #fff !important;
+}
+
+input.yellow-input{
+  color: #fff !important;
+}
+
+input.yellow-input:focus{
+  border-bottom: 1px solid #ffeb3d !important;
+  box-shadow: 0 1px 0 0 #ffeb3d !important;
+}
